@@ -1,4 +1,4 @@
-<img width="569" height="104" alt="image" src="https://github.com/user-attachments/assets/4d35042d-bd92-4564-94c1-112384a62865" /># Análisis y predicción del rendimiento académico mediante ciencia de datos
+# Análisis y predicción del rendimiento académico mediante ciencia de datos
 
 Proyecto académico individual de **Ingeniería de Sistemas** realizado en **Google Colab** con Python, Pandas, NumPy, Matplotlib, Seaborn y Scikit-learn.
 
