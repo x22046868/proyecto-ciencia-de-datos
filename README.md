@@ -66,8 +66,6 @@ Estas métricas pertenecen a validaciones distintas y no sustituyen la evaluaci�
 - El conjunto es pequeño, histórico y procede de un contexto educativo específico: es necesario validar externamente antes de cualquier uso real.
 - Las características no deben usarse para tomar decisiones automatizadas sobre estudiantes.
 
-## Estructura sugerida del repositorio
-
 ```text
 proyecto-ciencia-de-datos/
 ├── datos/
@@ -89,8 +87,6 @@ proyecto-ciencia-de-datos/
 └── README.md
 ```
 
-La estructura es una **propuesta**: incorpora los archivos generados en Colab y exporta el notebook antes de publicar. No publiques archivos con datos personales propios ni secretos.
-
 ## Cómo reproducir
 
 1. Descargar el dataset original de UCI y ubicar `student-mat.csv` en `datos/`.
@@ -106,8 +102,7 @@ Un panel de seguimiento académico podría mostrar las calificaciones y estimaci
 ## Presentación y video
 
 - Diapositivas: `presentacion/presentacion_rendimiento_academico.pptx`.
-- Guion: `guion_video_maximo_5_minutos.md` (material de apoyo).
-- Enlace a video: agregarlo en `video/enlace_video.txt` después de grabar.
+- Enlace a video: agregarlo en `video/enlace_video.txt` (https://youtu.be/CDHcMAzRyFs)
 
 ## Documentación adicional
 
@@ -119,4 +114,4 @@ Un panel de seguimiento académico podría mostrar las calificaciones y estimaci
 
 **Estudiante:** Simon Rodriguez
 **Programa:** Ingeniería de Sistemas  
-**Fecha:** Noviembre de 2026
+**Fecha:**  2026
