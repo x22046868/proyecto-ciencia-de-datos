@@ -1,4 +1,4 @@
-# Análisis y predicción del rendimiento académico mediante ciencia de datos
+<img width="569" height="104" alt="image" src="https://github.com/user-attachments/assets/4d35042d-bd92-4564-94c1-112384a62865" /># Análisis y predicción del rendimiento académico mediante ciencia de datos
 
 Proyecto académico individual de **Ingeniería de Sistemas** realizado en **Google Colab** con Python, Pandas, NumPy, Matplotlib, Seaborn y Scikit-learn.
 
@@ -69,7 +69,7 @@ Estas métricas pertenecen a validaciones distintas y no sustituyen la evaluaci�
 ## Estructura sugerida del repositorio
 
 ```text
-proyecto-ciencia-datos-academico/
+proyecto-ciencia-de-datos/
 ├── datos/
 │   ├── student-mat.csv
 │   └── student_mat_limpio.csv
@@ -79,10 +79,6 @@ proyecto-ciencia-datos-academico/
 │   ├── resultados_modelos.csv
 │   └── validacion_cruzada.csv
 ├── imagenes/
-│   ├── histograma_G3.png
-│   ├── boxplot_calificaciones.png
-│   ├── matriz_correlacion.png
-│   ├── regresion_lineal.png
 │   ├── comparacion_modelos.png
 │   └── errores_modelo_B.png
 ├── presentacion/
@@ -121,6 +117,6 @@ Un panel de seguimiento académico podría mostrar las calificaciones y estimaci
 
 ## Autoría
 
-**Estudiante:** [Completar nombre]  
+**Estudiante:** Simon Rodriguez
 **Programa:** Ingeniería de Sistemas  
 **Fecha:** Noviembre de 2026
